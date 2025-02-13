@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Chaussures_A",
+        "price": 18000,
+        "imageUrl": "/images/A17200/A1.jpg",
+        "description": "Des chaussures élégantes",
+        "category": "chaussures"
+    },
+    {
+        "name": "Chaussures_B",
+        "price": 20000,
+        "imageUrl": "/images/A17200/A2.jpg",
+        "description": "Des chaussures élégantes",
+        "category": "chaussures"
+    },
+    {
+        "name": "Chaussures_C",
+        "price": 22000,
+        "imageUrl": "/images/A17200/A3.jpg",
+        "description": "Des chaussures élégantes",
+        "category": "chaussures"
+    },
+    {
+        "name": "Chaussures_D",
+        "price": 25000,
+        "imageUrl": "/images/B17400/B1.jpg",
+        "description": "Des chaussures élégantes",
+        "category": "chaussures"
+    },
+    {
+        "name": "Chaussures_E",
+        "price": 30000,
+        "imageUrl": "/images/B17400/B2.jpg",
+        "description": "Des chaussures élégantes",
+        "category": "chaussures"
+    },
+    {
+        "name": "T-shirt_A",
+        "price": 5000,
+        "imageUrl": "/images/Tshirt/A1.jpg",
+        "description": "Tee-shirt pour hommes",
+        "category": "habillement"
+    },
+    {
+        "name": "T-shirt_B",
+        "price": 6000,
+        "imageUrl": "/images/Tshirt/B1.jpg",
+        "description": "Un t-shirt confortable",
+        "category": "habillement"
+    },
+    {
+        "name": "T-shirt_C",
+        "price": 7000,
+        "imageUrl": "/images/Tshirt/C1.jpg",
+        "description": "Un t-shirt confortable",
+        "category": "habillement"
+    },
+    {
+        "name": "T-shirt_D",
+        "price": 8000,
+        "imageUrl": "/images/Tshirt/D1.jpg",
+        "description": "Un t-shirt confortable",
+        "category": "habillement"
+    },
+    {
+        "name": "T-shirt_E",
+        "price": 9000,
+        "imageUrl": "/images/Tshirt/E1.jpg",
+        "description": "Un t-shirt confortable",
+        "category": "habillement"
+    },
+    {
+        "name": "Accessoire_A",
+        "price": 3000,
+        "imageUrl": "/images/Accessoire/A1.jpg",
+        "description": "Un accessoire élégant",
+        "category": "accessoires"
+    },
+    {
+        "name": "Accessoire_B",
+        "price": 4000,
+        "imageUrl": "/images/Accessoire/B1.jpg",
+        "description": "Un accessoire élégant",
+        "category": "accessoires"
+    },
+    {
+        "name": "Accessoire_C",
+        "price": 5000,
+        "imageUrl": "/images/Accessoire/C1.jpg",
+        "description": "Un accessoire élégant",
+        "category": "accessoires"
+    },
+    {
+        "name": "Accessoire_D",
+        "price": 6000,
+        "imageUrl": "/images/Accessoire/D1.jpg",
+        "description": "Un accessoire élégant",
+        "category": "accessoires"
+    },
+    {
+        "name": "Accessoire_E",
+        "price": 7000,
+        "imageUrl": "/images/Accessoire/E1.jpg",
+        "description": "Un accessoire élégant",
+        "category": "accessoires"
+    },
+    {
+        "name": "Accessoire_F",
+        "price": 8000,
+        "imageUrl": "/images/Accessoire/F1.jpg",
+        "description": "Un accessoire élégant",
+        "category": "accessoires"
+    },
+    {
+        "name": "Accessoire_G",
+        "price": 9000,
+        "imageUrl": "/images/Accessoire/G1.jpg",
+        "description": "Un accessoire élégant",
+        "category": "accessoires"
+    }
+]
